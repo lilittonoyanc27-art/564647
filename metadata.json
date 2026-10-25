@@ -1,0 +1,6 @@
+{
+  "name": "¿Quién quiere ser millonario? — Condicional Simple (ES/ARM)",
+  "description": "Իսպաներենի և հայերենի ուսուցողական խաղ «Ո՞վ է ուզում դառնալ միլիոնատեր» ոճով: 15 իրավիճակային հարց Condicional simple քերականությամբ:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
